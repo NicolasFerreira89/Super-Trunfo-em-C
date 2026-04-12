@@ -8,8 +8,8 @@ Projeto desenvolvido em linguagem C com o objetivo de praticar lógica de progra
 - Lógica condicional para determinar o vencedor
 
 ## 🧠 Conceitos aplicados
-- Estruturas (struct)
-- Condicionais (if/else)
+- Estruturas 
+- Condicionais (< e >)
 - Manipulação de dados
 - Organização de código
 
@@ -21,7 +21,10 @@ Projeto desenvolvido em linguagem C com o objetivo de praticar lógica de progra
    ./jogo
 
 ## 📸 Demonstração
-(Adicione prints aqui)
+![Uploading PrintTrunfo1.png…]()
+![Uploading PrintTrunfo2.png…]()
+![Uploading PrintTrunfo3.png…]()
+
 
 ## 🎯 Objetivo
 Fortalecer a base em programação e desenvolver raciocínio lógico, com foco em evolução na área de tecnologia e Segurança da Informação.
